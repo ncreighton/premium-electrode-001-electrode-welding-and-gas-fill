@@ -1,0 +1,2 @@
+# premium-electrode-001-electrode-welding-and-gas-fill
+Tired of mixing up which neon tube has been welded and which gas it's filled with, causing costly rework and delays?  This Notion template eliminates the guesswork by providing a dedicated system to track electrode welding and gas fill sequences for every neon tube. It centralizes your order details, welding records, and gas fill logs, ensuring you
